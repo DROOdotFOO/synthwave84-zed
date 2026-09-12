@@ -24,6 +24,7 @@ Inspired by the music and cover artwork of modern Synthwave bands like FM-84, Ti
 ![Theme Preview](assets/preview_synthwave84.png)
 ![Theme Preview](assets/preview_high_contrast.png)
 ![Theme Preview](assets/preview_soft.png)
+![Theme Preview](assets/preview_delta.png)
 
 ## Features
 
@@ -48,14 +49,14 @@ added by request in [#1](https://github.com/hydepwns/synthwave84-zed/issues/1). 
 Soft and High Contrast -- which are lightness shifts of the Synthwave base -- Delta
 carries its own palette and reassigns which hue means what:
 
-| Token    | Synthwave | Delta     |
-| -------- | --------- | --------- |
-| Function | Cyan      | Yellow    |
-| Keyword  | Yellow    | Pink      |
-| String   | Orange    | Purple    |
-| Type     | Pink      | Green     |
-| Number   | Coral     | Cyan      |
-| Variable | Pink      | Foreground|
+| Token    | Synthwave | Delta      |
+| -------- | --------- | ---------- |
+| Function | Cyan      | Yellow     |
+| Keyword  | Yellow    | Pink       |
+| String   | Orange    | Purple     |
+| Type     | Pink      | Green      |
+| Number   | Coral     | Cyan       |
+| Variable | Pink      | Foreground |
 
 Two deliberate deviations from upstream: the comment color is lifted from `#925393`
 to `#a562a6` (2.81:1 fails this repo's 3.0 contrast gate; the port sits at 3.55:1),
