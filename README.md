@@ -45,7 +45,7 @@ Inspired by the music and cover artwork of modern Synthwave bands like FM-84, Ti
 
 Delta is a port of the `delta` scheme from
 [fluoromachine.nvim](https://github.com/maxmx03/fluoromachine.nvim) by maxmx03 (MIT),
-added by request in [#1](https://github.com/hydepwns/synthwave84-zed/issues/1). Unlike
+added by request in [#1](https://github.com/DROOdotFOO/synthwave84-zed/issues/1). Unlike
 Soft and High Contrast -- which are lightness shifts of the Synthwave base -- Delta
 carries its own palette and reassigns which hue means what:
 
